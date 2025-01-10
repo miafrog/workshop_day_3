@@ -1,2 +1,2 @@
 # workshop_day_3
-example repository for workshop
+example repository for workshop edti ! 
